@@ -17,3 +17,4 @@ pnpm run dev
 ## 更新日志
 
 - 2025-01-29 更新了 shadcn 的 dark mode 配置
+- 2025-01-29 更新了 logger 功能
